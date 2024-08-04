@@ -1,0 +1,25 @@
+header{
+    color: white;
+    background-color: gray;
+    text-align: center;
+}
+h1{
+    margin: 0;
+}
+main{
+    width: 80%;
+    margin: 20px auto;
+}
+.Introduction, .Ingredients, .Instruction{
+background-color: rgb(180, 155, 155);
+margin: 30px;
+box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+padding: 15px;
+}
+.Ingredients h2, .Instruction h2 {
+    color: rgb(133, 70, 70);
+}
+footer{
+    text-align: center;
+    background-color: gray;
+}
